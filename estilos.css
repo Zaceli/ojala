@@ -12,6 +12,7 @@ body{
 .container
 {
     width: 80%;
+    text-decoration: solid royalblue;
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
